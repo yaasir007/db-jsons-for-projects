@@ -29,6 +29,36 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 32455,
+      "category": "football",
+      "title": "pitch Cleanup",
+      "description": "Help pick up trash along the pitch.",
+      "location": "Anfield",
+      "date": "July 25, 2022",
+      "time": "11:00",
+      "organizer": "LFC"
+    },
+    {
+      "id": 345536,
+      "category": "Housing",
+      "title": "House Cleanup",
+      "description": "Help pick up trash in the house.",
+      "location": "Port-Louis",
+      "date": "June 22, 2022",
+      "time": "08:00",
+      "organizer": "Council"
+    },
+    {
+      "id": 74535,
+      "category": "Cleaning",
+      "title": "River Cleanup",
+      "description": "Help pick up trash along the river.",
+      "location": "Pailles",
+      "date": "October 12, 2022",
+      "time": "09:00",
+      "organizer": "Pailles Council"
     }
   ]
 }
